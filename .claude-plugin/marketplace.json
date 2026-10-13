@@ -1,0 +1,14 @@
+{
+  "name": "herramientas-curso",
+  "description": "Plugins del curso de Claude Code de GlobalMentoring.com.mx",
+  "owner": {
+    "name": "GlobalMentoring.com.mx"
+  },
+  "plugins": [
+    {
+      "name": "calidad-ts",
+      "source": "./plugins/calidad-ts",
+      "description": "Revisión de typecheck y pruebas, y protección de archivos .env"
+    }
+  ]
+}

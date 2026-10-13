@@ -1,0 +1,8 @@
+{
+  "name": "calidad-ts",
+  "description": "Revisión de typecheck y pruebas, y protección de archivos .env, para proyectos de TypeScript",
+  "version": "1.0.0",
+  "author": {
+    "name": "Ubaldo"
+  }
+}
